@@ -1,0 +1,17 @@
+.encabezado
+{
+    background-color: rgba(53,58,64,255);
+}
+
+.section-padding {
+	padding: 100px 0;
+}
+
+.conferencia
+{
+    background-image: url(/jpg/ba1.jpg);
+    background-size: cover;
+    background-repeat:initial;
+    background-position: center;
+    height: 100vh;
+}
